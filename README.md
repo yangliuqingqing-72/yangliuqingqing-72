@@ -5,6 +5,6 @@
 - 📫 How to reach me: you could reach me by email:13811820014@qq.com 
 
 <!---
-yangliuqingqing-72/yangliuqingqing-72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Susan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
